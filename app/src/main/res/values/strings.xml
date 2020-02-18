@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HochschuleAppX</string>
+    <string name="call">Call Service Center?</string>
+    <string name="keyMaps">AIzaSyA18F3esBxrX68kj0KPgMjjmFhM9vt_kv0</string>
+    <string name="title_activity_main_items">MainActivityItems</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_toolbar">MainToolbarActivity</string>
+    <string name="title_activity_main_t">MainActivityT</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Username">username</string>
+    <string name="Password">password</string>
+    <string name="callSC">Call Service Center ?</string>
+    <string name="Ja">Yeah</string>
+    <string name="Nein">No</string>
+    <string name="Search">Search...</string>
+    <string name="welcome">Welcome</string>
+    <string name="details">Account details</string>
+    <string name="User1">Username:</string>
+    <string name="Pas1">Password:</string>
+    <string name="edit">Edit</string>
+</resources>
